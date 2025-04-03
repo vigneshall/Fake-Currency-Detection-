@@ -1,6 +1,7 @@
 Fake Currency Detection Using Autoencoder
 
-Overview
+Overview:-
+
 This project focuses on detecting fake Indian currency notes using Autoencoder and image processing techniques. The model learns the patterns of real currency and identifies anomalies to detect fake notes.
 
 How It Works:-
@@ -19,8 +20,10 @@ How It Works:-
 
 7️⃣ Saving and Loading Model – Saved the trained model for future use.
 
-8️⃣ Testing – Compared new images to learned patterns:
+8️⃣ Testing – Compared new images to learned patterns:-
+
      - If the image matches the real currency pattern ➝ Real Note ✅
+     
      - If the image deviates from the learned pattern ➝ Fake Note ❌
      
 Tech Stack & Tools:-
