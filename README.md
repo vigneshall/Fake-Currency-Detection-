@@ -24,7 +24,6 @@ How It Works
      - If the image deviates from the learned pattern ➝ Fake Note ❌
      
 Tech Stack & Tools
-
 🔹 Python
 
 🔹 OpenCV (Image Processing)
@@ -36,5 +35,7 @@ Tech Stack & Tools
 
 Results & Insights
 Successfully detected fake currency notes based on image patterns.
+
 Learned practical applications of deep learning, anomaly detection, and image processing.
+
 Improved model performance with better preprocessing and training techniques.
