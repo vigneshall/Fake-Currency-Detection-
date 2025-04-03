@@ -22,9 +22,10 @@ How It Works:-
 
 8️⃣ Testing – Compared new images to learned patterns:-
 
-     - If the image matches the real currency pattern ➝ Real Note ✅
+- If the image matches the real currency pattern ➝ Real Note ✅
      
-     - If the image deviates from the learned pattern ➝ Fake Note ❌
+- If the image deviates from the learned pattern ➝ Fake Note ❌
+
      
 Tech Stack & Tools:-
 
@@ -35,6 +36,7 @@ Tech Stack & Tools:-
 🔹 TensorFlow / Keras (Autoencoder Model)
 
 🔹 NumPy, Pandas (Data Handling)
+
 
 Results & Insights:-
 
